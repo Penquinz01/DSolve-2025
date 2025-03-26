@@ -10,7 +10,11 @@
 - Hani Muhamed-Role/Contribution
 
 ## 💡 Project Idea
-[A clear, concise 2-3 sentence description of your project's purpose and value proposition]
+Most digital games lack built-in accessibility features, making them inaccessible to individuals with disabilities. We propose a universal accessibility tool that works with any game by offering:
+
+• Voice-controlled inputs for hands-free gaming.
+• Gesture-based controls for easy interaction.
+• Color filters for color blindness.
 
 ## ✨ Key Features
 - 🔍 Feature 1: [Brief description]
