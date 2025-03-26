@@ -16,6 +16,7 @@ Most digital games lack built-in accessibility features, making them inaccessibl
 • Gesture-based controls for easy interaction.
 • Color filters for color blindness.
 
+This tool promotes inclusive gaming by enabling players with disabilities to enjoy games without requiring modifications to the original game
 ## ✨ Key Features
 - 🔍 Feature 1: Voice-controlled inputs for hands-free gaming.
 - ⚡ Feature 2: Gesture-based controls for easy interaction.
