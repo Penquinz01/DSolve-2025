@@ -17,9 +17,9 @@ Most digital games lack built-in accessibility features, making them inaccessibl
 • Color filters for color blindness.
 
 ## ✨ Key Features
-- 🔍 Feature 1: [Brief description]
-- ⚡ Feature 2: [Brief description] 
-- 🛡️ Feature 3: [Brief description]
+- 🔍 Feature 1: Voice-controlled inputs for hands-free gaming.
+- ⚡ Feature 2: Gesture-based controls for easy interaction.
+- 🛡️ Feature 3: Color filters for color blindness.
 
 ## 🎥 Product Demo
 [![Watch the Demo](https://via.placeholder.com/300x200?text=Click+for+Demo+Video)](https://youtube.com/link-to-video)
