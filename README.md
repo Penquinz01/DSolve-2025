@@ -12,10 +12,10 @@
 ## 💡 Project Idea
 Most digital games lack built-in accessibility features, making them inaccessible to individuals with disabilities. We propose a universal accessibility tool that works with any game by offering:
 
-• Voice-controlled inputs for hands-free gaming.
+• Voice-controlled inputs for hands-free gaming.<br>
 • Gesture-based controls for easy interaction.
-• Color filters for color blindness.
-
+<br>• Color filters for color blindness.
+<br><br>
 This tool promotes inclusive gaming by enabling players with disabilities to enjoy games without requiring modifications to the original game
 ## ✨ Key Features
 - 🔍 Feature 1: Voice-controlled inputs for hands-free gaming.
