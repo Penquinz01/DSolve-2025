@@ -5,9 +5,9 @@
 
 **Team Members:**
 - Member 1 Name
-- Janbaas Jamal K K-
+- Janbaas Jamal K K
 - Member 2 Name
-- Hani Muhamed-Role/Contribution
+- Hani Muhamed
 
 ## 💡 Project Idea
 Most digital games lack built-in accessibility features, making them inaccessible to individuals with disabilities. We propose a universal accessibility tool that works with any game by offering:
