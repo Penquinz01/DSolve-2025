@@ -1,0 +1,31 @@
+# Requires Python 3.12 on Windows (64-bit) — tested with 3.12.10
+# Do NOT use Python 3.14 (MediaPipe has no wheels) or 3.8 (EOL).
+# Create venv:  py -3.12 -m venv venv
+# Activate:     .\venv\Scripts\Activate.ps1
+# Install:      python -m pip install -r requirements.txt
+# Run:          python spp.py  (needs Vosk/ model dir + webcam + mic)
+
+# Speech recognition (offline)
+vosk==0.3.45
+
+# Audio input (wheels bundle PortAudio on Windows)
+sounddevice==0.5.6
+
+# Numeric processing — MUST stay <2: opencv 4.8.x and mediapipe 0.10.14
+# are compiled against NumPy 1.x and crash on NumPy 2.x (_ARRAY_API error)
+numpy==1.26.4
+
+# Global key simulation (Windows: run as admin for games)
+keyboard==0.13.5
+
+# Computer vision — pinned to 4.8.1.78 to match mediapipe 0.10.14 / numpy 1.x
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+
+# Head tracking / face mesh.
+# IMPORTANT: must stay 0.10.14 — newer 0.10.35+ and 1.x removed the
+# `mediapipe.solutions.face_mesh` API that spp.py uses.
+mediapipe==0.10.14
+
+# Windows low-level input (win32gui, win32api, win32con, win32com)
+pywin32==312; sys_platform == "win32"
